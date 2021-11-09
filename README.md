@@ -5,3 +5,5 @@ Hi Everyone!!
 
 I am Samit. I love compititive coding and web development. I am new to GitHub, so i am learning it now. 
 Hope that i will be a great developer and contributer.
+
+Thanks for reading.
